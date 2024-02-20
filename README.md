@@ -1,6 +1,6 @@
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....<br>My name is Jose Jimenez and I'm from Laredo, Texas.</p>
+<p align="left">My name is Jose Jimenez and I'm from Laredo, Texas.</p>
 
 ###
 
