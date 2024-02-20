@@ -1,5 +1,3 @@
-<h1 align="left">Hi!! 👋 Welcome to my profile.</h1>
-
 ###
 
 <p align="left">My name is ... and I'm a ..., from ....<br>My name is Jose Jimenez and I'm from Laredo, Texas.</p>
